@@ -2715,11 +2715,11 @@ i.anzhiyu-icon-hashtag {
   --anzhiyu-shadow-blue: 0 8px 12px -3px rgba(40,109,234,0.2);
   --anzhiyu-shadow-white: 0 8px 12px -3px rgba(255,255,255,0.2);
   --anzhiyu-shadow-black: 0 0 12px 4px rgba(0,0,0,0.05);
-  --anzhiyu-shadow-yellow: 0px 38px 77px -26px rgba(255,201,62,0.12);
+  --anzhiyu-shadow-yellow: 0px 12px -3px -26px rgba(255,252,62,0.2);
   --anzhiyu-shadow-red: 0 8px 12px -3px rgba(238,125,121,0.212);
   --anzhiyu-shadow-green: 0 8px 12px -3px rgba(135,238,121,0.212);
   --anzhiyu-shadow-border: 0 8px 16px -4px rgba(44,45,48,0.047);
-  --anzhiyu-shadow-blackdeep: 0 2px 16px -3px rgba(0,0,0,0.15);
+  --anzhiyu-shadow-blackdeep: 0 8px 12px -3px rgba(197,16,110,0.2);
   --anzhiyu-logo-color: linear-gradient(215deg, #4584ff 0%, #cf0db9 100%);
   --anzhiyu-code-stress: var(--anzhiyu-main);
   --style-border: 1px solid var(--anzhiyu-card-border);
